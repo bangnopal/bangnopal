@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **PHP, NodeJS, SEO Marketing, and Blogging Tutorial**
 
-- 📫 How to reach me **naufalfattah19@gmail.com**
+- 📫 How to reach me **bangnopal@turupedia.net**
 
 - 📄 I'm backend developer at [https://pb-fanatic.com](https://pb-fanatic.com)
 
@@ -30,7 +30,7 @@
 <a href="https://fb.com/naufal.alfattah19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naufal.alfattah19" height="30" width="40" /></a>
 <a href="https://instagram.com/bangnopal_real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bangnopal_real" height="30" width="40" /></a>
 <a href="https://medium.com/@bangnopal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bangnopal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bang nopal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bang nopal" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCkpm2t3gXGFJXJPIkc4e6zw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bang nopal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
